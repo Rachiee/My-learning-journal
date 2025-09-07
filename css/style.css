@@ -57,7 +57,7 @@ header a{
 
 .hero{
     display: block;
-    background-image: #000 url("images/hero-img.png");
+    background-image: #000 url("/images/hero-img.png");
     background-size: cover;
     padding: 20px;
     padding-top: 5.5em;
